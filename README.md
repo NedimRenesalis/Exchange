@@ -1,15 +1,4 @@
-PEATIO v2.0 - An open-source crypto currency exchange
-====================================================
-https://blog.algobasket.com/2019/05/build-your-own-cryptocurrency-exchange.html
 
-Peatio is a free and open-source crypto currency exchange implementation with the Rails framework and other cutting-edge technology.
-
-
-### Mission
-
-Our mission is to build the world best open-source crypto currency exchange with a high performance trading engine and safety which can be trusted and enjoyed by users. Additionally we want to move the crypto currency exchange technology forward by providing support and add new features. We are helping people to build easy their own exchange around the world.
-
-Help is greatly appreciated, feel free to submit pull-requests or open issues.
 
 
 ### Things You Should Know ###
